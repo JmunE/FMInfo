@@ -1,0 +1,5 @@
+If $BTC’s exchange rate, in USD, increases over the 24 hour period from 12:00AM EST (0500 UTC) 11/16/2022 - 12:00AM EST (0500 UTC) 11/17/2022, then the market will resolve to "Increase"
+
+If $BTC’s exchange rate, in USD, decreases over the 24 hour period from 12:00AM EST (0500 UTC) 11/16/2022 - 12:00AM EST (0500 UTC) 11/17/2022, then the market will resolve to "Decrease"
+
+Data from the following link will be used to determine the starting price and ending price for this market: https://coinmarketcap.com/currencies/bitcoin/
