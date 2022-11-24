@@ -1,0 +1,3 @@
+The data used to determine the percentage of total vote for this market will come from:  https://sos.ga.gov/
+
+The margin of victory (or loss) will be calculated by the vote percentage of candidate A - vote percentage of candidate B (ex. 51.3% - 47.8% = 3.5% margin of victory/loss)
