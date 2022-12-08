@@ -1,0 +1,13 @@
+This is a market on a month-to-month inflation, as measured by the Bureau of Labor Statistics (CPI-U), from October to November 2022.
+
+Inflation is measured by a change in Consumer Price Index for All Urban Consumers (CPI-U) on a seasonally adjusted basis, reported by the U.S. Bureau of Labor Statistics.
+
+This market will resolve to “Yes” if the index increased by more than 0.2 percent (on a seasonally adjusted basis) from October to November 2022 and “No“ otherwise.
+
+The resolution source for this market will be the BLS November 2022 Consumer Price Index report (https://www.bls.gov/bls/news-release/cpi.htm), currently scheduled to be released on December 13, 2022, at 8:30 AM ET. Resolution of this market will take place upon release of the aforementioned data. 
+
+---
+
+The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services.
+
+Note that the resolution source for this market will be the official monthly BLS CPI news release which reports seasonally-adjusted month-to-month inflation to only one decimal point (e.g. 0.7%, 0.6%, etc). Thus, this is the level of precision that will be used when resolving the market (e.g. if seasonally adjusted month-to-month CPI-U is 0.2%, the market will resolve to “No”, if it is 0.3%, this market will resolve to “Yes”).
