@@ -1,0 +1,6 @@
+This market will use the following url as a source of truth: https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022/scores-fixtures?country=US&wtw-filter=ALL
+
+If France wins, this market will resolve to "France".
+If England wins, this market will resolve to "England". 
+
+This market will resolve based on the winner of the game, which includes regular time, extra time, and penalties.
